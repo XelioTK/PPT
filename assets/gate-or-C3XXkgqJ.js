@@ -1,0 +1,1 @@
+var e=`/PPT/images/gate-or.png`;export{e as t};

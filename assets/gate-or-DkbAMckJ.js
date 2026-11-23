@@ -1,1 +1,0 @@
-var e=`/images/gate-or.png`;export{e as t};
