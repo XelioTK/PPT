@@ -1,0 +1,1 @@
+var e=`/PPT/images/george-boole-hd.jpg`;export{e as t};
